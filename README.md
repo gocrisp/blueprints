@@ -1,4 +1,4 @@
-# Analytics Blueprints Public
+# Blueprints
 
 ## Overview
 
