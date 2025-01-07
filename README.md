@@ -1,4 +1,4 @@
-# Blueprints
+![Crisp | AI Blueprints](notebooks/img/logo.png)
 
 ## Overview
 
