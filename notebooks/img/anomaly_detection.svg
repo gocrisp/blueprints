@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 65 65">
+  <!-- Generator: Adobe Illustrator 29.1.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 142)  -->
+  <defs>
+    <style>
+      .st0 {
+        stroke-linejoin: round;
+      }
+
+      .st0, .st1 {
+        fill: none;
+        stroke: #fff;
+      }
+
+      .st2 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="41.3" y1="58.6" x2="22.3" y2="4.6" gradientTransform="translate(0 66) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#71c5e8"/>
+      <stop offset="1" stop-color="#006ba6"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_4447">
+    <rect id="Rectangle_3695" class="st2" width="65" height="65" rx="7" ry="7"/>
+    <g id="Group_4484">
+      <path id="Ellipse_314" class="st1" d="M15,39.5c-4.1,0-7.5-3.4-7.5-7.5s3.4-7.5,7.5-7.5,7.5,3.4,7.5,7.5-3.4,7.5-7.5,7.5Z"/>
+      <path id="Ellipse_315" class="st1" d="M34,39.5c-4.1,0-7.5-3.4-7.5-7.5s3.4-7.5,7.5-7.5,7.5,3.4,7.5,7.5-3.4,7.5-7.5,7.5Z"/>
+      <path id="Polygon_1" class="st0" d="M52,26l6.9,12h-13.9l6.9-12Z"/>
+    </g>
+  </g>
+</svg>
